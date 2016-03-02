@@ -1,0 +1,9 @@
+<kinect1>
+	<Thresholding>1</Thresholding>
+	<Draw_Point_Cloud>0</Draw_Point_Cloud>
+	<Enable_D_Near_White>1</Enable_D_Near_White>
+	<Near_Threshold>268</Near_Threshold>
+	<Far_Threshold>42</Far_Threshold>
+	<Tilt>0</Tilt>
+<kinect1/>
+</kinect1>
